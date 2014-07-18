@@ -1,0 +1,119 @@
+<html lang="en" class=" js no-touch cssanimations csstransitions"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SHIELD - Free Bootstrap 3 Theme">
+    <meta name="author" content="Carlos Alvarez - Alvarez.is - blacktie.co">
+    <link rel="shortcut icon" href="assets/ico/favicon.png">
+
+    <title> Landowners for Montana PAC </title>
+
+    <!-- Bootstrap core CSS -->
+    <link href=".../css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/icomoon.css">
+    <link href="assets/css/animate-custom.css" rel="stylesheet">
+
+
+    
+    <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Raleway:400,300,700" rel="stylesheet" type="text/css">
+    
+    <script src="assets/js/jquery.min.js"></script>
+	<script type="text/javascript" src="assets/js/modernizr.custom.js"></script>
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5shiv.js"></script>
+      <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body class="wide cp TextResizeOn;" >
+       
+  
+  
+		<!-- ==== HEADERWRAP ==== -->
+<div id="headerwrap" name="home"> 
+    <ul>
+  <li><a href="#OurMission" class="smoothScroll">Our Mission</a></li>
+  <li><a href="#Contribute" class="smoothScroll">Contribute</a></li>
+  <li><a href="#Contact" class="smoothScroll">Contact</a></li>
+</ul>
+
+
+			<header class="clearfix">
+                
+                <br></br>
+<br>
+	  		 		<p style="font-size:60px; color: Aliceblue; font-family: Blackoak STD;"> <strong>LANDOWNERS</strong></p>
+                          
+     <p style="font-size:60px; color:Aliceblue; font-family:Blackoak STD;
+   ">FOR</strong>
+                </p>
+                <p style="font-size:60px; color:AliceBlue; font-family: Blackoak STD;
+   "><strong>MONTANA</strong></p>
+
+
+
+<br></br>
+ <br>
+  <br>
+    <H1 style="color: grey; font-size:30px; font-family:Lucida Fax; text-Align: Center; color: Aliceblue; Margin-left: 5em; Margin-right: 5em "> Dedicated to Ensuring the Protection and Expansion of Private Property Rights in Montana
+</H1> 		 		
+  <br>
+	    </div><!-- /headerwrap -->
+<section id="OurMission" name="OurMission"></section>
+				<div class="col-lg-6;" style="background-color: aliceblue;">
+                    <br>
+                        <br>
+                    <h1 class="centered" style="font-family: Blackoak std;font-size: 40px; color:grey;">Our Mission</h1>
+                    <br>
+					<right> <p style="background-color: Aliceblue; margin-left:10em; margin-right:10em;"> <strong> The rights we have to own, enjoy, and put to productive use the property we own are fundamental to our economy and free society. Far too often those rights come under attack, be it from overzealous environmental activists or over-reaching government bureaucrats. Allowing those property rights to erode means fewer freedoms and diminished opportunities for future generations of Montanans. That’s why it’s so critical that Montana landowners unite today to protect and enhance those rights. </strong> </p> </right>
+                        
+                  <right>     <p style="margin-left: 10em; margin-right: 10em;"> <strong>Landowners For Montana PAC is divoted to ensuring that the state's elected officials preserve our democracy by protecting and enhanceing private property rights. It is imperative that we do not allow the efforts of out-of-state special interests to erode your rights as property owners and jeopardize the future of our state and our country. Please support Landowners for Montana's mission to protect our Nation's freedom. </strong> </p></right>
+                
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <section id="Contribute" name="Contribute"></section>
+<h1  style="font-size:30px; color: Grey; font-family: blackoak STD;text-align: center;
+    "> Please Contribute Today!</h1> 
+                    <br>
+	<center><iframe src="https://causes.anedot.com/landowerns-for-montana-pac?embed=standard" width="80%" height="745" frameborder="0"></iframe></center>
+                    <br>
+                    <br>
+                 <section id="Contact" name="Contact"></section>
+		<center> <h3 style="background-color: Aliceblue; font-size: 20px; font-family: blackoak std; color: darkgrey;">Contact Information</h3></p>
+                   
+					
+						<span class="icon icon-envelop"></span>  info@landownersforMT.com  </center>
+
+
+<br>
+<center><hr width="80%"</center>
+
+<center><h4 style=" font-size: 15px;">Paid for by Landowners for Montana PAC
+    <br>1820 N Last Chance Gulch
+   <br> Helena, MT 59601
+    <br>Chuck Denowh Treasurer</center>
+<br>
+    
+</div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+		
+
+	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="assets/js/retina.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="assets/js/smoothscroll.js"></script>
+	<script type="text/javascript" src="assets/js/jquery-func.js"></script>
+  
+
+</body></html>
